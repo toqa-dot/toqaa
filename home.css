@@ -1,0 +1,111 @@
+header {
+    background-color:rgb(255, 254, 246);
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    padding-top: 30px;
+    min-height: 70px;
+    boarder-bottom:#181819 5px solid ;
+
+}
+header a {
+    color: rgb(249, 242, 148);
+    text-decoration: none;
+    font-size: 25px;
+}
+header li{
+    float:left;
+    display:inline;
+    padding:0 20px 0 20px;
+
+}
+header #brand {
+float: center ;
+
+}
+header #brand h1 {
+    margin:10;
+    color:  rgb(249, 242, 148)
+
+}
+
+
+
+
+
+
+
+
+.{
+    background-color: rgb(255, 255, 248);
+    overflow: hidden;
+   
+    
+}
+.One{
+    float: left;
+    color:  rgb(249, 242, 148) ;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    border: 10px;
+    
+   
+  
+    
+ 
+}
+.active{
+    margin-right: 25px;
+}
+.mcollection{
+    position: relative;
+    left: 70px;
+}
+.wcllection{
+    position: relative;
+    left: 40px;
+}
+.block{
+    position: relative;
+    bottom:  30px;
+}
+
+
+
+
+
+.block{
+    display: white;
+    
+    border: none;
+    background-color: rgb(249, 242, 148);
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    
+    
+}
+.block{border-radius: 55%;}
+.block{
+    margin-left: 1000px;
+   
+}
+
+
+.women{
+   
+    
+    position: relative;
+    right: 400px;
+    top: 100px;
+}
+.men{
+   
+   position: relative;
+  bottom: 800px;
+   left: 300px;
+   
+}
